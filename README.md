@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**mmattbtw/mmattbtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I juggle being a streamer, youtuber, creating a discord bot, school, and being a support man for Kaguya and Poni (Discord Bots). You can find me everywhere on https://streamerlinks.com/mmatt | https://mmatt.net
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Doob, Discord Bot.
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: contact@mmatt.net | mmatt#0001 on Discord | @mmattbtw on Twitter.
+- 😄 Pronouns: he/him
+- 🌐 Website: https://mmatt.net
+- 💬 Domains: mmatt.net, dzzy.xyz, crative.pw.
+- ⚙  Specs: https://mmatt.net/devices [RTX 2070, i9-9900k, 16 GB RAM]
+
+I don't know what else to put here lol.
