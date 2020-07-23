@@ -5,7 +5,7 @@ I juggle being a streamer, youtuber, creating a discord bot, school, and being a
 
 - 🔭 I’m currently working on Doob, Discord Bot.
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: contact@mmatt.net | mmatt#0001 on Discord | @mmattbtw on Twitter.
+- 📫 How to reach me: mmattbtw@pm.me | mmatt#0001 on Discord | @mmattbtw on Twitter.
 - 😄 Pronouns: he/him
 - 🌐 Website: https://mmatt.net
 - 💬 Domains: mmatt.net, dzzy.xyz, crative.pw.
