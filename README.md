@@ -9,5 +9,3 @@ I juggle being a streamer, youtuber, creating a discord bot, school, and being a
 - 😄 Pronouns: he/him
 - 🌐 Website: https://mmatt.net 
 - ⚙  Specs: https://mmatt.net/devices [RTX 2070, i9-9900k, 16 GB RAM]
-
-I don't know what else to put here lol.
