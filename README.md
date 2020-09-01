@@ -9,3 +9,7 @@ I juggle being a streamer, youtuber, creating a discord bot, school, and being a
 - 😄 Pronouns: he/him
 - 🌐 Website: https://mmatt.net 
 - ⚙  Specs: https://mmatt.net/devices [RTX 2070, i9-9900k, 16 GB RAM]
+
+[![mmatt's github stats](https://github-readme-stats.vercel.app/api?username=mmattbtw)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmattbtw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
