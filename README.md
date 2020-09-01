@@ -11,3 +11,5 @@ I juggle being a streamer, youtuber, creating a discord bot, school, and being a
 - ⚙  Specs: https://mmatt.net/devices [RTX 2070, i9-9900k, 16 GB RAM]
 
 [![mmatt's github stats](https://github-readme-stats.vercel.app/api?username=mmattbtw&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmattbtw&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
+
+*contribute to this page [here](https://github.com/mmattbtw/mmattbtw)*
