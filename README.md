@@ -14,6 +14,8 @@
 - 🌐 Website: https://mmatt.net 
 - ⚙  Specs: https://mmatt.net/devices [RTX 2070, i9-9900k, 16 GB RAM]
 - 💬 Domains: [domains.md](https://github.com/mmattbtw/mmattbtw/blob/master/domains.md)
+- ❌ Most of my repositories are trash.
+  - My [/doobdev](https://github.com/doobdev) ones are aren't.
 
 -----------------------------------------------------------------------
 
