@@ -17,3 +17,5 @@ crative.pw - for old minecraft server (inactive)
 [mmatt.live](http://mmatt.live) - redirects to my twitch channel (or where ever i feel like streaming on this month)
 
 [mmatt.lol](http://mmatt.lol) - redirects to mmatt.net (inactive)
+
+mmattbot.com - for my twitch chat bot (inactive)
