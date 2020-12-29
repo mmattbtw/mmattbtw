@@ -20,4 +20,14 @@
 ### Some GitHub Stats:
 [![mmatt's github stats](https://github-readme-stats.vercel.app/api?username=mmattbtw&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmattbtw&hide=javascript&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+-----------------------------------------------------------------------
+
+- My personal commit key.
+  - ✔  = Added
+  - ❌ = Removed
+  - 🔧 = Fixed
+  - ↔ = Merged
+  - 🔼 = Updated dependancy
+  - 🔄 = Also... (for descriptions of commits.)
+
 ###### *contribute to this readme.md [here](https://github.com/mmattbtw/mmattbtw)*
