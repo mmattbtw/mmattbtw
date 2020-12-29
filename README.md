@@ -6,6 +6,7 @@
 ###### You can find me everywhere on https://mmatt.link/socials
 -----------------------------------------------------------------------
 
+### About Me
 - 🔭 I’m currently working on [Doob](http://doobbot.com), Discord Bot.
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: [mmattbtw@pm.me](mailto:mmattbtw@pm.me) | mmatt#0001 on Discord | [@mmattbtw](https://twitter.com/messages/476840933-476840933?recipient_id=476840933&text=Hello!) on Twitter.
@@ -22,7 +23,7 @@
 
 -----------------------------------------------------------------------
 
-- My personal commit key.
+### My personal commit key.
   - ➕  = Added
   - ❌ = Removed
   - 🔧 = Fixed
