@@ -26,6 +26,7 @@
   - ➕  = Added
   - ❌ = Removed
   - 🔧 = Fixed
+  - 🔀 = Changed
   - ↔ = Merged
   - 🔼 = Updated dependancy
   - 🔄 = Also... (for descriptions of commits.)
