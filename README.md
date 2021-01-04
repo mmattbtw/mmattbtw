@@ -31,5 +31,7 @@
   - ↔ = Merged
   - 🔼 = Updated dependancy
   - 🔄 = Also... (for descriptions of commits.)
+  - ✨ = Made the code look better
+    - This would either be by using [black](https://github.com/psf/black) or just manually.
 
 ###### *contribute to this readme.md [here](https://github.com/mmattbtw/mmattbtw)*
