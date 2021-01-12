@@ -1,7 +1,7 @@
 ## Hi, I'm Matt. 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mmattbtw?color=%231A90D9&label=Twitter&logo=Twitter&logoColor=White&style=flat-square)](https://twitter.com/mmattbtw)
-[![Discord](https://img.shields.io/discord/560262402659057681.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=flat-square)](https://discord.gg/StZa8BT)
+[![Discord](https://img.shields.io/discord/702352937980133386.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=flat-square)](https://discord.gg/hgQTTU7)
 [![Twitch Status](https://img.shields.io/twitch/status/mmattbtw?style=flat-square)](https://twitch.tv/mmattbtw)
 ###### You can find me everywhere on https://mmatt.link/socials
 -----------------------------------------------------------------------
