@@ -14,8 +14,8 @@
 - 😄 Pronouns: he/him
 - 🌐 Website: https://mmatt.net 
 - ⚙  Specs: https://mmatt.net/devices [RTX 2070, i9-9900k, 16 GB RAM]
-- ❌ Most of my repositories are trash.
-  - My [/doobdev](https://github.com/doobdev) ones are aren't.
+- ❌ Most of my repositories aren't work looking at.
+  - My [/doobdev](https://github.com/doobdev) repos is what a work on the most.
 
 -----------------------------------------------------------------------
 
@@ -31,7 +31,6 @@
   - 🔀 = Changed
   - ↔ = Merged
   - 🔼 = Updated dependancy
-  - 🔄 = Also... (for descriptions of commits.)
   - ✨ = Made the code look better
     - This would either be by using [black](https://github.com/psf/black) or just manually.
 
