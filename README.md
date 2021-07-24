@@ -15,7 +15,7 @@
 - 🌐 Website: https://mmatt.net 
 - ⚙  Specs: https://mmatt.net/devices [RTX 2070, i9-9900k, 16 GB RAM]
 - ❌ Most of my repositories aren't work looking at.
-  - My [/doobdev](https://github.com/doobdev) repos is what a work on the most.
+  - My [/doobdev](https://github.com/doobdev) repos is what I work on the most.
   - Except for:
     - https://github.com/mmattbtw/TwitchTunes
     - https://github.com/mmattbtw/Twitch-Discord-Relay-Bot
