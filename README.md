@@ -28,6 +28,7 @@
 -----------------------------------------------------------------------
 
 ### My personal commit key.
+#### I'm slowly phasing this out in favor of this: https://github.com/BobAnkh/auto-generate-changelog (which uses angularjs git message conventions)
   - ➕  = Added
   - ❌ = Removed
   - 🔧 = Fixed
