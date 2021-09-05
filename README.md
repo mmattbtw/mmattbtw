@@ -4,6 +4,7 @@
 [![Discord](https://img.shields.io/discord/702352937980133386.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=flat-square)](https://discord.gg/hgQTTU7)
 [![Twitch Status](https://img.shields.io/twitch/status/mmattbtw?style=flat-square)](https://twitch.tv/mmattbtw)
 ![GitHub Visitors](https://visitor-badge.glitch.me/badge?page_id=mmattbtw.mmattbtw?style=flat-square)
+
 ###### You can find me everywhere on https://mmatt.link/socials
 -----------------------------------------------------------------------
 
@@ -20,13 +21,13 @@
 
 -----------------------------------------------------------------------
 
-### Some GitHub Stats:
 [![mmatt's github stats](https://github-readme-stats.vercel.app/api?username=mmattbtw&show_icons=true&include_all_commits=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mmattbtw&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![GitHub trophys](https://github-profile-trophy.vercel.app/?username=mmattbtw&no-frame=true&no-bg=true)
 
 -----------------------------------------------------------------------
-
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/308000668181069824
+                            )](https://discord.com/users/308000668181069824)
 ### My personal commit key.
 #### I'm slowly phasing this out in favor of this: https://github.com/BobAnkh/auto-generate-changelog (which uses angularjs git message conventions)
   - ➕  = Added
