@@ -11,7 +11,7 @@
 ### About Me
 - 🔭 I’m currently working on [Doob](http://github.com/doobdev/doob), Discord Bot. | [GitHub Repo](https://github.com/doobdev/doob) - [Website](https://doobbot.com)
 - 🌱 I’m currently learning Python and JavaScript
-- 📫 How to reach me: [mmattbtw@pm.me](mailto:mmattbtw@pm.me) | mmatt#9926 on Discord | [@mmattbtw](https://twitter.com/messages/476840933-476840933?recipient_id=476840933&text=Hello!) on Twitter.
+- 📫 How to reach me: [mmattbtw@pm.me](mailto:mmattbtw@pm.me) | [mmatt#9926](https://discord.com/users/308000668181069824) on Discord | [@mmattbtw](https://twitter.com/messages/476840933-476840933?recipient_id=476840933&text=Hello!) on Twitter.
 - 😄 Pronouns: he/him
 - 🌐 Website: https://mmatt.net 
 - ⚙  Specs: https://mmatt.net/devices [RTX 2070, i9-9900k, 16 GB RAM]
