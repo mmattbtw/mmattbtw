@@ -1,4 +1,4 @@
-## Hi, I'm Matt. 👋
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi%2C+I'm+Matt.+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mmattbtw?color=%231A90D9&label=Twitter&logo=Twitter&logoColor=White&style=flat-square)](https://twitter.com/mmattbtw)
 [![Discord](https://img.shields.io/discord/702352937980133386.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=flat-square)](https://discord.gg/hgQTTU7)
