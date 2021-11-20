@@ -24,6 +24,7 @@
 [![mmatt's github stats](https://github-readme-stats.vercel.app/api?username=mmattbtw&show_icons=true&include_all_commits=true&theme=algolia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mmattbtw&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+### Recent Git Activity:
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#328](https://github.com/DoobDev/Doob/pull/328) in [DoobDev/Doob](https://github.com/DoobDev/Doob)
 2. 🎉 Merged PR [#60](https://github.com/mmattDonk/AI-TTS-Donations/pull/60) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
