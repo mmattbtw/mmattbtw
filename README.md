@@ -25,6 +25,12 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mmattbtw&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#328](https://github.com/DoobDev/Doob/pull/328) in [DoobDev/Doob](https://github.com/DoobDev/Doob)
+2. 🎉 Merged PR [#60](https://github.com/mmattDonk/AI-TTS-Donations/pull/60) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+3. 🎉 Merged PR [#23](https://github.com/mmattDonk/emoteracer.xyz/pull/23) in [mmattDonk/emoteracer.xyz](https://github.com/mmattDonk/emoteracer.xyz)
+4. 🗣 Commented on [#53](https://github.com/mmattDonk/AI-TTS-Donations/issues/53) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+5. 🎉 Merged PR [#58](https://github.com/mmattDonk/AI-TTS-Donations/pull/58) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+<!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/308000668181069824
