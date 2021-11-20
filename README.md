@@ -24,18 +24,11 @@
 [![mmatt's github stats](https://github-readme-stats.vercel.app/api?username=mmattbtw&show_icons=true&include_all_commits=true&theme=algolia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mmattbtw&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+<!--START_SECTION:activity-->
+
 -----------------------------------------------------------------------
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/308000668181069824
                             )](https://discord.com/users/308000668181069824)
-### My personal commit key.
-#### I'm slowly phasing this out in favor of this: https://github.com/BobAnkh/auto-generate-changelog (which uses angularjs git message conventions)
-  - ➕  = Added
-  - ❌ = Removed
-  - 🔧 = Fixed
-  - 🔀 = Changed
-  - ↔ = Merged
-  - 🔼 = Updated dependancy
-  - ✨ = Made the code look better
-    - This would either be by using [black](https://github.com/psf/black) or just manually.
+
 
 ###### *contribute to this readme.md [here](https://github.com/mmattbtw/mmattbtw)*
