@@ -26,11 +26,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#69](https://github.com/mmattDonk/AI-TTS-Donations/pull/69) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-2. 💪 Opened PR [#17](https://github.com/glibg10b/ltt-linux-challenge-issues/pull/17) in [glibg10b/ltt-linux-challenge-issues](https://github.com/glibg10b/ltt-linux-challenge-issues)
-3. 🎉 Merged PR [#66](https://github.com/mmattDonk/AI-TTS-Donations/pull/66) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-4. 💪 Opened PR [#66](https://github.com/mmattDonk/AI-TTS-Donations/pull/66) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-5. ❗️ Closed issue [#27](https://github.com/mmattDonk/AI-TTS-Donations/issues/27) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+1. 🎉 Merged PR [#70](https://github.com/mmattDonk/AI-TTS-Donations/pull/70) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+2. 🎉 Merged PR [#71](https://github.com/mmattDonk/AI-TTS-Donations/pull/71) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+3. 💪 Opened PR [#71](https://github.com/mmattDonk/AI-TTS-Donations/pull/71) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+4. 🎉 Merged PR [#69](https://github.com/mmattDonk/AI-TTS-Donations/pull/69) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+5. 💪 Opened PR [#17](https://github.com/glibg10b/ltt-linux-challenge-issues/pull/17) in [glibg10b/ltt-linux-challenge-issues](https://github.com/glibg10b/ltt-linux-challenge-issues)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
