@@ -26,11 +26,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#51](https://github.com/mmattDonk/AI-TTS-Donations/pull/51) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-2. 🗣 Commented on [#51](https://github.com/mmattDonk/AI-TTS-Donations/issues/51) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-3. 🎉 Merged PR [#73](https://github.com/mmattDonk/AI-TTS-Donations/pull/73) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-4. 💪 Opened PR [#73](https://github.com/mmattDonk/AI-TTS-Donations/pull/73) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-5. 🎉 Merged PR [#70](https://github.com/mmattDonk/AI-TTS-Donations/pull/70) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+1. 🎉 Merged PR [#25](https://github.com/mmattDonk/emoteracer.xyz/pull/25) in [mmattDonk/emoteracer.xyz](https://github.com/mmattDonk/emoteracer.xyz)
+2. 🗣 Commented on [#25](https://github.com/mmattDonk/emoteracer.xyz/issues/25) in [mmattDonk/emoteracer.xyz](https://github.com/mmattDonk/emoteracer.xyz)
+3. ❌ Closed PR [#51](https://github.com/mmattDonk/AI-TTS-Donations/pull/51) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+4. 🗣 Commented on [#51](https://github.com/mmattDonk/AI-TTS-Donations/issues/51) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+5. 🎉 Merged PR [#73](https://github.com/mmattDonk/AI-TTS-Donations/pull/73) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
