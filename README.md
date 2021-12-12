@@ -26,11 +26,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#76](https://github.com/mmattDonk/AI-TTS-Donations/pull/76) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-2. ❗️ Opened issue [#3](https://github.com/Soft-Bred/Brave-Fox/issues/3) in [Soft-Bred/Brave-Fox](https://github.com/Soft-Bred/Brave-Fox)
-3. 🎉 Merged PR [#25](https://github.com/mmattDonk/emoteracer.xyz/pull/25) in [mmattDonk/emoteracer.xyz](https://github.com/mmattDonk/emoteracer.xyz)
-4. 🗣 Commented on [#25](https://github.com/mmattDonk/emoteracer.xyz/issues/25) in [mmattDonk/emoteracer.xyz](https://github.com/mmattDonk/emoteracer.xyz)
-5. ❌ Closed PR [#51](https://github.com/mmattDonk/AI-TTS-Donations/pull/51) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+1. 🎉 Merged PR [#76](https://github.com/mmattDonk/AI-TTS-Donations/pull/76) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+2. ❗️ Closed issue [#32](https://github.com/mmattDonk/AI-TTS-Donations/issues/32) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+3. 💪 Opened PR [#76](https://github.com/mmattDonk/AI-TTS-Donations/pull/76) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+4. ❗️ Opened issue [#3](https://github.com/Soft-Bred/Brave-Fox/issues/3) in [Soft-Bred/Brave-Fox](https://github.com/Soft-Bred/Brave-Fox)
+5. 🎉 Merged PR [#25](https://github.com/mmattDonk/emoteracer.xyz/pull/25) in [mmattDonk/emoteracer.xyz](https://github.com/mmattDonk/emoteracer.xyz)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
