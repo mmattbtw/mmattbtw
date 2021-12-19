@@ -26,11 +26,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#330](https://github.com/DoobDev/Doob/pull/330) in [DoobDev/Doob](https://github.com/DoobDev/Doob)
-2. 🗣 Commented on [#1638](https://github.com/pajbot/pajbot/issues/1638) in [pajbot/pajbot](https://github.com/pajbot/pajbot)
-3. 🎉 Merged PR [#26](https://github.com/mmattDonk/emoteracer.xyz/pull/26) in [mmattDonk/emoteracer.xyz](https://github.com/mmattDonk/emoteracer.xyz)
-4. 🎉 Merged PR [#78](https://github.com/mmattDonk/AI-TTS-Donations/pull/78) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-5. 🗣 Commented on [#1638](https://github.com/pajbot/pajbot/issues/1638) in [pajbot/pajbot](https://github.com/pajbot/pajbot)
+1. 🗣 Commented on [#41](https://github.com/mmattDonk/AI-TTS-Donations/issues/41) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+2. 💪 Opened PR [#330](https://github.com/DoobDev/Doob/pull/330) in [DoobDev/Doob](https://github.com/DoobDev/Doob)
+3. 🗣 Commented on [#1638](https://github.com/pajbot/pajbot/issues/1638) in [pajbot/pajbot](https://github.com/pajbot/pajbot)
+4. 🎉 Merged PR [#26](https://github.com/mmattDonk/emoteracer.xyz/pull/26) in [mmattDonk/emoteracer.xyz](https://github.com/mmattDonk/emoteracer.xyz)
+5. 🎉 Merged PR [#78](https://github.com/mmattDonk/AI-TTS-Donations/pull/78) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
