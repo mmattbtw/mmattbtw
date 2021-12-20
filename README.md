@@ -26,11 +26,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#81](https://github.com/mmattDonk/AI-TTS-Donations/pull/81) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-2. 💪 Opened PR [#80](https://github.com/mmattDonk/AI-TTS-Donations/pull/80) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-3. 🗣 Commented on [#41](https://github.com/mmattDonk/AI-TTS-Donations/issues/41) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-4. 💪 Opened PR [#330](https://github.com/DoobDev/Doob/pull/330) in [DoobDev/Doob](https://github.com/DoobDev/Doob)
-5. 🗣 Commented on [#1638](https://github.com/pajbot/pajbot/issues/1638) in [pajbot/pajbot](https://github.com/pajbot/pajbot)
+1. 🎉 Merged PR [#36](https://github.com/DoobDev/Appalled/pull/36) in [DoobDev/Appalled](https://github.com/DoobDev/Appalled)
+2. 💪 Opened PR [#81](https://github.com/mmattDonk/AI-TTS-Donations/pull/81) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+3. 💪 Opened PR [#80](https://github.com/mmattDonk/AI-TTS-Donations/pull/80) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+4. 🗣 Commented on [#41](https://github.com/mmattDonk/AI-TTS-Donations/issues/41) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+5. 💪 Opened PR [#330](https://github.com/DoobDev/Doob/pull/330) in [DoobDev/Doob](https://github.com/DoobDev/Doob)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
