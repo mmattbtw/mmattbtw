@@ -26,11 +26,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#330](https://github.com/DoobDev/Doob/pull/330) in [DoobDev/Doob](https://github.com/DoobDev/Doob)
-2. 🗣 Commented on [#93](https://github.com/Teekeks/pyTwitchAPI/issues/93) in [Teekeks/pyTwitchAPI](https://github.com/Teekeks/pyTwitchAPI)
-3. 🎉 Merged PR [#36](https://github.com/DoobDev/Appalled/pull/36) in [DoobDev/Appalled](https://github.com/DoobDev/Appalled)
-4. 💪 Opened PR [#81](https://github.com/mmattDonk/AI-TTS-Donations/pull/81) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-5. 💪 Opened PR [#80](https://github.com/mmattDonk/AI-TTS-Donations/pull/80) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+1. ❗️ Opened issue [#78](https://github.com/BobAnkh/auto-generate-changelog/issues/78) in [BobAnkh/auto-generate-changelog](https://github.com/BobAnkh/auto-generate-changelog)
+2. 🎉 Merged PR [#330](https://github.com/DoobDev/Doob/pull/330) in [DoobDev/Doob](https://github.com/DoobDev/Doob)
+3. 🗣 Commented on [#93](https://github.com/Teekeks/pyTwitchAPI/issues/93) in [Teekeks/pyTwitchAPI](https://github.com/Teekeks/pyTwitchAPI)
+4. 🎉 Merged PR [#36](https://github.com/DoobDev/Appalled/pull/36) in [DoobDev/Appalled](https://github.com/DoobDev/Appalled)
+5. 💪 Opened PR [#81](https://github.com/mmattDonk/AI-TTS-Donations/pull/81) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
