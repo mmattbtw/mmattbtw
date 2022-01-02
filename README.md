@@ -26,11 +26,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#89](https://github.com/mmattDonk/AI-TTS-Donations/pull/89) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-2. ❗️ Opened issue [#88](https://github.com/mmattDonk/AI-TTS-Donations/issues/88) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-3. ❗️ Closed issue [#78](https://github.com/BobAnkh/auto-generate-changelog/issues/78) in [BobAnkh/auto-generate-changelog](https://github.com/BobAnkh/auto-generate-changelog)
-4. ❌ Closed PR [#86](https://github.com/mmattDonk/AI-TTS-Donations/pull/86) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-5. 🗣 Commented on [#78](https://github.com/BobAnkh/auto-generate-changelog/issues/78) in [BobAnkh/auto-generate-changelog](https://github.com/BobAnkh/auto-generate-changelog)
+1. ❌ Closed PR [#87](https://github.com/mmattDonk/AI-TTS-Donations/pull/87) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+2. 🎉 Merged PR [#89](https://github.com/mmattDonk/AI-TTS-Donations/pull/89) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+3. ❗️ Opened issue [#88](https://github.com/mmattDonk/AI-TTS-Donations/issues/88) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+4. ❗️ Closed issue [#78](https://github.com/BobAnkh/auto-generate-changelog/issues/78) in [BobAnkh/auto-generate-changelog](https://github.com/BobAnkh/auto-generate-changelog)
+5. ❌ Closed PR [#86](https://github.com/mmattDonk/AI-TTS-Donations/pull/86) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
