@@ -26,11 +26,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#87](https://github.com/mmattDonk/AI-TTS-Donations/pull/87) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-2. 🎉 Merged PR [#89](https://github.com/mmattDonk/AI-TTS-Donations/pull/89) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-3. ❗️ Opened issue [#88](https://github.com/mmattDonk/AI-TTS-Donations/issues/88) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-4. ❗️ Closed issue [#78](https://github.com/BobAnkh/auto-generate-changelog/issues/78) in [BobAnkh/auto-generate-changelog](https://github.com/BobAnkh/auto-generate-changelog)
-5. ❌ Closed PR [#86](https://github.com/mmattDonk/AI-TTS-Donations/pull/86) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+1. ❌ Closed PR [#1](https://github.com/mmattbtw/dankerino/pull/1) in [mmattbtw/dankerino](https://github.com/mmattbtw/dankerino)
+2. 🎉 Merged PR [#2](https://github.com/mmattbtw/dankerino/pull/2) in [mmattbtw/dankerino](https://github.com/mmattbtw/dankerino)
+3. 💪 Opened PR [#2](https://github.com/mmattbtw/dankerino/pull/2) in [mmattbtw/dankerino](https://github.com/mmattbtw/dankerino)
+4. ❌ Closed PR [#87](https://github.com/mmattDonk/AI-TTS-Donations/pull/87) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+5. 🎉 Merged PR [#89](https://github.com/mmattDonk/AI-TTS-Donations/pull/89) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
