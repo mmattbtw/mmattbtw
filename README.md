@@ -26,11 +26,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#3](https://github.com/mmattbtw/dankerino/pull/3) in [mmattbtw/dankerino](https://github.com/mmattbtw/dankerino)
-2. ❌ Closed PR [#3](https://github.com/mmattbtw/dankerino/pull/3) in [mmattbtw/dankerino](https://github.com/mmattbtw/dankerino)
-3. 💪 Opened PR [#62](https://github.com/SevenTV/chatterino7/pull/62) in [SevenTV/chatterino7](https://github.com/SevenTV/chatterino7)
-4. 💪 Opened PR [#1](https://github.com/mmattbtw2/chatterino7/pull/1) in [mmattbtw2/chatterino7](https://github.com/mmattbtw2/chatterino7)
-5. 💪 Opened PR [#3](https://github.com/mmattbtw/dankerino/pull/3) in [mmattbtw/dankerino](https://github.com/mmattbtw/dankerino)
+1. ❗️ Opened issue [#4](https://github.com/noiredayz/trilaud/issues/4) in [noiredayz/trilaud](https://github.com/noiredayz/trilaud)
+2. ❌ Reopened PR [#3](https://github.com/mmattbtw/dankerino/pull/3) in [mmattbtw/dankerino](https://github.com/mmattbtw/dankerino)
+3. ❌ Closed PR [#3](https://github.com/mmattbtw/dankerino/pull/3) in [mmattbtw/dankerino](https://github.com/mmattbtw/dankerino)
+4. 💪 Opened PR [#62](https://github.com/SevenTV/chatterino7/pull/62) in [SevenTV/chatterino7](https://github.com/SevenTV/chatterino7)
+5. 💪 Opened PR [#1](https://github.com/mmattbtw2/chatterino7/pull/1) in [mmattbtw2/chatterino7](https://github.com/mmattbtw2/chatterino7)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
