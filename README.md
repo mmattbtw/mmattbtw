@@ -26,11 +26,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/mmattbtw/dankerino/pull/4) in [mmattbtw/dankerino](https://github.com/mmattbtw/dankerino)
-2. 💪 Opened PR [#4](https://github.com/mmattbtw/dankerino/pull/4) in [mmattbtw/dankerino](https://github.com/mmattbtw/dankerino)
-3. ❗️ Opened issue [#4](https://github.com/noiredayz/trilaud/issues/4) in [noiredayz/trilaud](https://github.com/noiredayz/trilaud)
-4. ❌ Reopened PR [#3](https://github.com/mmattbtw/dankerino/pull/3) in [mmattbtw/dankerino](https://github.com/mmattbtw/dankerino)
-5. ❌ Closed PR [#3](https://github.com/mmattbtw/dankerino/pull/3) in [mmattbtw/dankerino](https://github.com/mmattbtw/dankerino)
+1. 🎉 Merged PR [#58](https://github.com/DoobDev/Krinio/pull/58) in [DoobDev/Krinio](https://github.com/DoobDev/Krinio)
+2. 🎉 Merged PR [#37](https://github.com/DoobDev/Appalled/pull/37) in [DoobDev/Appalled](https://github.com/DoobDev/Appalled)
+3. 🎉 Merged PR [#3](https://github.com/mmattbtw/dankerino/pull/3) in [mmattbtw/dankerino](https://github.com/mmattbtw/dankerino)
+4. 🗣 Commented on [#3](https://github.com/mmattbtw/dankerino/issues/3) in [mmattbtw/dankerino](https://github.com/mmattbtw/dankerino)
+5. ❌ Closed PR [#4](https://github.com/mmattbtw/dankerino/pull/4) in [mmattbtw/dankerino](https://github.com/mmattbtw/dankerino)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
