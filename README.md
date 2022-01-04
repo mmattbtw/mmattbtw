@@ -26,11 +26,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/mmattDonk/Twitch-Discord-Relay-Bot/pull/11) in [mmattDonk/Twitch-Discord-Relay-Bot](https://github.com/mmattDonk/Twitch-Discord-Relay-Bot)
-2. 🎉 Merged PR [#58](https://github.com/DoobDev/Krinio/pull/58) in [DoobDev/Krinio](https://github.com/DoobDev/Krinio)
-3. 🎉 Merged PR [#37](https://github.com/DoobDev/Appalled/pull/37) in [DoobDev/Appalled](https://github.com/DoobDev/Appalled)
-4. 🎉 Merged PR [#3](https://github.com/mmattbtw/dankerino/pull/3) in [mmattbtw/dankerino](https://github.com/mmattbtw/dankerino)
-5. 🗣 Commented on [#3](https://github.com/mmattbtw/dankerino/issues/3) in [mmattbtw/dankerino](https://github.com/mmattbtw/dankerino)
+1. ❗️ Opened issue [#96](https://github.com/mmattDonk/AI-TTS-Donations/issues/96) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+2. 🎉 Merged PR [#11](https://github.com/mmattDonk/Twitch-Discord-Relay-Bot/pull/11) in [mmattDonk/Twitch-Discord-Relay-Bot](https://github.com/mmattDonk/Twitch-Discord-Relay-Bot)
+3. 🎉 Merged PR [#58](https://github.com/DoobDev/Krinio/pull/58) in [DoobDev/Krinio](https://github.com/DoobDev/Krinio)
+4. 🎉 Merged PR [#37](https://github.com/DoobDev/Appalled/pull/37) in [DoobDev/Appalled](https://github.com/DoobDev/Appalled)
+5. 🎉 Merged PR [#3](https://github.com/mmattbtw/dankerino/pull/3) in [mmattbtw/dankerino](https://github.com/mmattbtw/dankerino)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
