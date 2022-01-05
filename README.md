@@ -26,11 +26,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#97](https://github.com/mmattDonk/AI-TTS-Donations/pull/97) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-2. ❗️ Opened issue [#96](https://github.com/mmattDonk/AI-TTS-Donations/issues/96) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-3. 🎉 Merged PR [#11](https://github.com/mmattDonk/Twitch-Discord-Relay-Bot/pull/11) in [mmattDonk/Twitch-Discord-Relay-Bot](https://github.com/mmattDonk/Twitch-Discord-Relay-Bot)
-4. 🎉 Merged PR [#58](https://github.com/DoobDev/Krinio/pull/58) in [DoobDev/Krinio](https://github.com/DoobDev/Krinio)
-5. 🎉 Merged PR [#37](https://github.com/DoobDev/Appalled/pull/37) in [DoobDev/Appalled](https://github.com/DoobDev/Appalled)
+1. 🎉 Merged PR [#42](https://github.com/mmattDonk/TwitchTunes/pull/42) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
+2. 🎉 Merged PR [#41](https://github.com/mmattDonk/TwitchTunes/pull/41) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
+3. 💪 Opened PR [#41](https://github.com/mmattDonk/TwitchTunes/pull/41) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
+4. 💪 Opened PR [#97](https://github.com/mmattDonk/AI-TTS-Donations/pull/97) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+5. ❗️ Opened issue [#96](https://github.com/mmattDonk/AI-TTS-Donations/issues/96) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
