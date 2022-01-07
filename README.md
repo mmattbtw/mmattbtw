@@ -26,11 +26,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1677](https://github.com/pajbot/pajbot/issues/1677) in [pajbot/pajbot](https://github.com/pajbot/pajbot)
-2. 🎉 Merged PR [#12](https://github.com/mmattDonk/Twitch-Discord-Relay-Bot/pull/12) in [mmattDonk/Twitch-Discord-Relay-Bot](https://github.com/mmattDonk/Twitch-Discord-Relay-Bot)
-3. 🎉 Merged PR [#42](https://github.com/mmattDonk/TwitchTunes/pull/42) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
-4. 🎉 Merged PR [#41](https://github.com/mmattDonk/TwitchTunes/pull/41) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
-5. 💪 Opened PR [#41](https://github.com/mmattDonk/TwitchTunes/pull/41) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
+1. 🎉 Merged PR [#27](https://github.com/mmattDonk/emoteracer.xyz/pull/27) in [mmattDonk/emoteracer.xyz](https://github.com/mmattDonk/emoteracer.xyz)
+2. ❗️ Opened issue [#1677](https://github.com/pajbot/pajbot/issues/1677) in [pajbot/pajbot](https://github.com/pajbot/pajbot)
+3. 🎉 Merged PR [#12](https://github.com/mmattDonk/Twitch-Discord-Relay-Bot/pull/12) in [mmattDonk/Twitch-Discord-Relay-Bot](https://github.com/mmattDonk/Twitch-Discord-Relay-Bot)
+4. 🎉 Merged PR [#42](https://github.com/mmattDonk/TwitchTunes/pull/42) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
+5. 🎉 Merged PR [#41](https://github.com/mmattDonk/TwitchTunes/pull/41) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
