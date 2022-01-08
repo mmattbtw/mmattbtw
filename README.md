@@ -26,11 +26,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#324](https://github.com/DoobDev/Doob/issues/324) in [DoobDev/Doob](https://github.com/DoobDev/Doob)
-2. 🎉 Merged PR [#27](https://github.com/mmattDonk/emoteracer.xyz/pull/27) in [mmattDonk/emoteracer.xyz](https://github.com/mmattDonk/emoteracer.xyz)
-3. ❗️ Opened issue [#1677](https://github.com/pajbot/pajbot/issues/1677) in [pajbot/pajbot](https://github.com/pajbot/pajbot)
-4. 🎉 Merged PR [#12](https://github.com/mmattDonk/Twitch-Discord-Relay-Bot/pull/12) in [mmattDonk/Twitch-Discord-Relay-Bot](https://github.com/mmattDonk/Twitch-Discord-Relay-Bot)
-5. 🎉 Merged PR [#42](https://github.com/mmattDonk/TwitchTunes/pull/42) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
+1. 🗣 Commented on [#305](https://github.com/DoobDev/Doob/issues/305) in [DoobDev/Doob](https://github.com/DoobDev/Doob)
+2. 🗣 Commented on [#305](https://github.com/DoobDev/Doob/issues/305) in [DoobDev/Doob](https://github.com/DoobDev/Doob)
+3. 🎉 Merged PR [#28](https://github.com/mmattDonk/emoteracer.xyz/pull/28) in [mmattDonk/emoteracer.xyz](https://github.com/mmattDonk/emoteracer.xyz)
+4. 🎉 Merged PR [#331](https://github.com/DoobDev/Doob/pull/331) in [DoobDev/Doob](https://github.com/DoobDev/Doob)
+5. 💪 Opened PR [#331](https://github.com/DoobDev/Doob/pull/331) in [DoobDev/Doob](https://github.com/DoobDev/Doob)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
