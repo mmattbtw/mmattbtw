@@ -26,11 +26,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#305](https://github.com/DoobDev/Doob/issues/305) in [DoobDev/Doob](https://github.com/DoobDev/Doob)
+1. 🗣 Commented on [#62](https://github.com/SevenTV/chatterino7/issues/62) in [SevenTV/chatterino7](https://github.com/SevenTV/chatterino7)
 2. 🗣 Commented on [#305](https://github.com/DoobDev/Doob/issues/305) in [DoobDev/Doob](https://github.com/DoobDev/Doob)
-3. 🎉 Merged PR [#28](https://github.com/mmattDonk/emoteracer.xyz/pull/28) in [mmattDonk/emoteracer.xyz](https://github.com/mmattDonk/emoteracer.xyz)
-4. 🎉 Merged PR [#331](https://github.com/DoobDev/Doob/pull/331) in [DoobDev/Doob](https://github.com/DoobDev/Doob)
-5. 💪 Opened PR [#331](https://github.com/DoobDev/Doob/pull/331) in [DoobDev/Doob](https://github.com/DoobDev/Doob)
+3. 🗣 Commented on [#305](https://github.com/DoobDev/Doob/issues/305) in [DoobDev/Doob](https://github.com/DoobDev/Doob)
+4. 🎉 Merged PR [#28](https://github.com/mmattDonk/emoteracer.xyz/pull/28) in [mmattDonk/emoteracer.xyz](https://github.com/mmattDonk/emoteracer.xyz)
+5. 🎉 Merged PR [#331](https://github.com/DoobDev/Doob/pull/331) in [DoobDev/Doob](https://github.com/DoobDev/Doob)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
