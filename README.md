@@ -25,10 +25,10 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#98](https://github.com/mmattDonk/AI-TTS-Donations/pull/98) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-2. ❌ Closed PR [#325](https://github.com/DoobDev/Doob/pull/325) in [DoobDev/Doob](https://github.com/DoobDev/Doob)
-3. 🗣 Commented on [#62](https://github.com/SevenTV/chatterino7/issues/62) in [SevenTV/chatterino7](https://github.com/SevenTV/chatterino7)
-4. 🗣 Commented on [#305](https://github.com/DoobDev/Doob/issues/305) in [DoobDev/Doob](https://github.com/DoobDev/Doob)
+1. 💪 Opened PR [#227](https://github.com/SevenTV/App/pull/227) in [SevenTV/App](https://github.com/SevenTV/App)
+2. 🎉 Merged PR [#98](https://github.com/mmattDonk/AI-TTS-Donations/pull/98) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+3. ❌ Closed PR [#325](https://github.com/DoobDev/Doob/pull/325) in [DoobDev/Doob](https://github.com/DoobDev/Doob)
+4. 🗣 Commented on [#62](https://github.com/SevenTV/chatterino7/issues/62) in [SevenTV/chatterino7](https://github.com/SevenTV/chatterino7)
 5. 🗣 Commented on [#305](https://github.com/DoobDev/Doob/issues/305) in [DoobDev/Doob](https://github.com/DoobDev/Doob)
 <!--END_SECTION:activity-->
 
