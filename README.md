@@ -25,11 +25,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#177](https://github.com/SevenTV/ServerGo/pull/177) in [SevenTV/ServerGo](https://github.com/SevenTV/ServerGo)
-2. ❌ Closed PR [#5](https://github.com/mmattbtw/dankerino/pull/5) in [mmattbtw/dankerino](https://github.com/mmattbtw/dankerino)
-3. 🎉 Merged PR [#43](https://github.com/mmattDonk/TwitchTunes/pull/43) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
-4. 💪 Opened PR [#227](https://github.com/SevenTV/App/pull/227) in [SevenTV/App](https://github.com/SevenTV/App)
-5. 🎉 Merged PR [#98](https://github.com/mmattDonk/AI-TTS-Donations/pull/98) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+1. 🗣 Commented on [#177](https://github.com/SevenTV/ServerGo/issues/177) in [SevenTV/ServerGo](https://github.com/SevenTV/ServerGo)
+2. 💪 Opened PR [#177](https://github.com/SevenTV/ServerGo/pull/177) in [SevenTV/ServerGo](https://github.com/SevenTV/ServerGo)
+3. ❌ Closed PR [#5](https://github.com/mmattbtw/dankerino/pull/5) in [mmattbtw/dankerino](https://github.com/mmattbtw/dankerino)
+4. 🎉 Merged PR [#43](https://github.com/mmattDonk/TwitchTunes/pull/43) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
+5. 💪 Opened PR [#227](https://github.com/SevenTV/App/pull/227) in [SevenTV/App](https://github.com/SevenTV/App)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
