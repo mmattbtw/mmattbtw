@@ -25,11 +25,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#177](https://github.com/SevenTV/ServerGo/pull/177) in [SevenTV/ServerGo](https://github.com/SevenTV/ServerGo)
-2. 🗣 Commented on [#177](https://github.com/SevenTV/ServerGo/issues/177) in [SevenTV/ServerGo](https://github.com/SevenTV/ServerGo)
+1. 🎉 Merged PR [#99](https://github.com/mmattDonk/AI-TTS-Donations/pull/99) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+2. ❌ Closed PR [#177](https://github.com/SevenTV/ServerGo/pull/177) in [SevenTV/ServerGo](https://github.com/SevenTV/ServerGo)
 3. 🗣 Commented on [#177](https://github.com/SevenTV/ServerGo/issues/177) in [SevenTV/ServerGo](https://github.com/SevenTV/ServerGo)
-4. 💪 Opened PR [#177](https://github.com/SevenTV/ServerGo/pull/177) in [SevenTV/ServerGo](https://github.com/SevenTV/ServerGo)
-5. ❌ Closed PR [#5](https://github.com/mmattbtw/dankerino/pull/5) in [mmattbtw/dankerino](https://github.com/mmattbtw/dankerino)
+4. 🗣 Commented on [#177](https://github.com/SevenTV/ServerGo/issues/177) in [SevenTV/ServerGo](https://github.com/SevenTV/ServerGo)
+5. 💪 Opened PR [#177](https://github.com/SevenTV/ServerGo/pull/177) in [SevenTV/ServerGo](https://github.com/SevenTV/ServerGo)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
