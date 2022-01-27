@@ -25,11 +25,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#234](https://github.com/SevenTV/App/pull/234) in [SevenTV/App](https://github.com/SevenTV/App)
-2. 🎉 Merged PR [#1](https://github.com/mmattbtw/PingPong/pull/1) in [mmattbtw/PingPong](https://github.com/mmattbtw/PingPong)
-3. 💪 Opened PR [#6](https://github.com/mmattbtw/dankerino/pull/6) in [mmattbtw/dankerino](https://github.com/mmattbtw/dankerino)
-4. 🎉 Merged PR [#99](https://github.com/mmattDonk/AI-TTS-Donations/pull/99) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-5. ❌ Closed PR [#177](https://github.com/SevenTV/ServerGo/pull/177) in [SevenTV/ServerGo](https://github.com/SevenTV/ServerGo)
+1. 💪 Opened PR [#119](https://github.com/Mm2PL/dankerino/pull/119) in [Mm2PL/dankerino](https://github.com/Mm2PL/dankerino)
+2. ❌ Closed PR [#6](https://github.com/mmattbtw/dankerino/pull/6) in [mmattbtw/dankerino](https://github.com/mmattbtw/dankerino)
+3. 💪 Opened PR [#234](https://github.com/SevenTV/App/pull/234) in [SevenTV/App](https://github.com/SevenTV/App)
+4. 🎉 Merged PR [#1](https://github.com/mmattbtw/PingPong/pull/1) in [mmattbtw/PingPong](https://github.com/mmattbtw/PingPong)
+5. 💪 Opened PR [#6](https://github.com/mmattbtw/dankerino/pull/6) in [mmattbtw/dankerino](https://github.com/mmattbtw/dankerino)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
