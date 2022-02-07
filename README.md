@@ -25,11 +25,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/mmattDonk/TwitchTunes/pull/46) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
-2. 🎉 Merged PR [#44](https://github.com/mmattDonk/TwitchTunes/pull/44) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
-3. 🎉 Merged PR [#100](https://github.com/mmattDonk/AI-TTS-Donations/pull/100) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-4. 🎉 Merged PR [#101](https://github.com/mmattDonk/AI-TTS-Donations/pull/101) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-5. 💪 Opened PR [#119](https://github.com/Mm2PL/dankerino/pull/119) in [Mm2PL/dankerino](https://github.com/Mm2PL/dankerino)
+1. 🎉 Merged PR [#106](https://github.com/mmattDonk/AI-TTS-Donations/pull/106) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+2. 🎉 Merged PR [#104](https://github.com/mmattDonk/AI-TTS-Donations/pull/104) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+3. 🎉 Merged PR [#103](https://github.com/mmattDonk/AI-TTS-Donations/pull/103) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+4. ❗️ Closed issue [#12](https://github.com/mmattDonk/AI-TTS-Donations/issues/12) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+5. 💪 Opened PR [#103](https://github.com/mmattDonk/AI-TTS-Donations/pull/103) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
