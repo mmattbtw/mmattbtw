@@ -25,11 +25,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/mmattbtw/random-title-api/pull/2) in [mmattbtw/random-title-api](https://github.com/mmattbtw/random-title-api)
-2. 🎉 Merged PR [#1](https://github.com/mmattbtw/random-title-api/pull/1) in [mmattbtw/random-title-api](https://github.com/mmattbtw/random-title-api)
-3. 🎉 Merged PR [#47](https://github.com/mmattDonk/TwitchTunes/pull/47) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
-4. 🎉 Merged PR [#109](https://github.com/mmattDonk/AI-TTS-Donations/pull/109) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-5. 🎉 Merged PR [#2](https://github.com/mmattbtw/PingPong/pull/2) in [mmattbtw/PingPong](https://github.com/mmattbtw/PingPong)
+1. 💪 Opened PR [#112](https://github.com/mmattDonk/AI-TTS-Donations/pull/112) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+2. 💪 Opened PR [#111](https://github.com/mmattDonk/AI-TTS-Donations/pull/111) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+3. 🎉 Merged PR [#2](https://github.com/mmattbtw/random-title-api/pull/2) in [mmattbtw/random-title-api](https://github.com/mmattbtw/random-title-api)
+4. 🎉 Merged PR [#1](https://github.com/mmattbtw/random-title-api/pull/1) in [mmattbtw/random-title-api](https://github.com/mmattbtw/random-title-api)
+5. 🎉 Merged PR [#47](https://github.com/mmattDonk/TwitchTunes/pull/47) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
