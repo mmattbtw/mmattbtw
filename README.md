@@ -25,11 +25,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/krystalgamer/stem-player-emulator/pull/7) in [krystalgamer/stem-player-emulator](https://github.com/krystalgamer/stem-player-emulator)
-2. 🎉 Merged PR [#119](https://github.com/mmattDonk/AI-TTS-Donations/pull/119) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-3. 🎉 Merged PR [#117](https://github.com/mmattDonk/AI-TTS-Donations/pull/117) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-4. 💪 Opened PR [#117](https://github.com/mmattDonk/AI-TTS-Donations/pull/117) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-5. ❌ Closed PR [#116](https://github.com/mmattDonk/AI-TTS-Donations/pull/116) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+1. 🗣 Commented on [#10](https://github.com/krystalgamer/stem-player-emulator/issues/10) in [krystalgamer/stem-player-emulator](https://github.com/krystalgamer/stem-player-emulator)
+2. 💪 Opened PR [#10](https://github.com/krystalgamer/stem-player-emulator/pull/10) in [krystalgamer/stem-player-emulator](https://github.com/krystalgamer/stem-player-emulator)
+3. 💪 Opened PR [#7](https://github.com/krystalgamer/stem-player-emulator/pull/7) in [krystalgamer/stem-player-emulator](https://github.com/krystalgamer/stem-player-emulator)
+4. 🎉 Merged PR [#119](https://github.com/mmattDonk/AI-TTS-Donations/pull/119) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+5. 🎉 Merged PR [#117](https://github.com/mmattDonk/AI-TTS-Donations/pull/117) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
