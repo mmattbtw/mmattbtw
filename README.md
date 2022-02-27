@@ -25,10 +25,10 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#21](https://github.com/mmattDonk/TwitchTunes/pull/21) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
-2. 🗣 Commented on [#21](https://github.com/mmattDonk/TwitchTunes/issues/21) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
-3. ❌ Closed PR [#37](https://github.com/mmattDonk/TwitchTunes/pull/37) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
-4. 🗣 Commented on [#37](https://github.com/mmattDonk/TwitchTunes/issues/37) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
+1. 🗣 Commented on [#13](https://github.com/krystalgamer/stem-player-emulator/issues/13) in [krystalgamer/stem-player-emulator](https://github.com/krystalgamer/stem-player-emulator)
+2. ❌ Closed PR [#21](https://github.com/mmattDonk/TwitchTunes/pull/21) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
+3. 🗣 Commented on [#21](https://github.com/mmattDonk/TwitchTunes/issues/21) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
+4. ❌ Closed PR [#37](https://github.com/mmattDonk/TwitchTunes/pull/37) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
 5. 🗣 Commented on [#37](https://github.com/mmattDonk/TwitchTunes/issues/37) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
 <!--END_SECTION:activity-->
 
