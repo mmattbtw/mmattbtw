@@ -25,11 +25,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#136](https://github.com/mmattDonk/AI-TTS-Donations/pull/136) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-2. 🎉 Merged PR [#130](https://github.com/mmattDonk/AI-TTS-Donations/pull/130) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-3. 🎉 Merged PR [#133](https://github.com/mmattDonk/AI-TTS-Donations/pull/133) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-4. 🎉 Merged PR [#134](https://github.com/mmattDonk/AI-TTS-Donations/pull/134) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-5. 🎉 Merged PR [#17](https://github.com/mmattbtw/mmattbtw.github.io/pull/17) in [mmattbtw/mmattbtw.github.io](https://github.com/mmattbtw/mmattbtw.github.io)
+1. ❌ Closed PR [#21](https://github.com/mmattDonk/TwitchTunes/pull/21) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
+2. 🗣 Commented on [#21](https://github.com/mmattDonk/TwitchTunes/issues/21) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
+3. ❌ Closed PR [#37](https://github.com/mmattDonk/TwitchTunes/pull/37) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
+4. 🗣 Commented on [#37](https://github.com/mmattDonk/TwitchTunes/issues/37) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
+5. 🗣 Commented on [#37](https://github.com/mmattDonk/TwitchTunes/issues/37) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
