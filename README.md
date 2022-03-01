@@ -25,11 +25,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#138](https://github.com/mmattDonk/AI-TTS-Donations/pull/138) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-2. 🎉 Merged PR [#139](https://github.com/mmattDonk/AI-TTS-Donations/pull/139) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-3. 💪 Opened PR [#139](https://github.com/mmattDonk/AI-TTS-Donations/pull/139) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-4. 🎉 Merged PR [#137](https://github.com/mmattDonk/AI-TTS-Donations/pull/137) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-5. 🗣 Commented on [#13](https://github.com/krystalgamer/stem-player-emulator/issues/13) in [krystalgamer/stem-player-emulator](https://github.com/krystalgamer/stem-player-emulator)
+1. 🎉 Merged PR [#141](https://github.com/mmattDonk/AI-TTS-Donations/pull/141) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+2. 🎉 Merged PR [#138](https://github.com/mmattDonk/AI-TTS-Donations/pull/138) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+3. 🎉 Merged PR [#139](https://github.com/mmattDonk/AI-TTS-Donations/pull/139) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+4. 💪 Opened PR [#139](https://github.com/mmattDonk/AI-TTS-Donations/pull/139) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+5. 🎉 Merged PR [#137](https://github.com/mmattDonk/AI-TTS-Donations/pull/137) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
