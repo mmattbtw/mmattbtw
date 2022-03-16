@@ -25,11 +25,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#164](https://github.com/mmattDonk/AI-TTS-Donations/pull/164) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-2. 🎉 Merged PR [#162](https://github.com/mmattDonk/AI-TTS-Donations/pull/162) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-3. 🎉 Merged PR [#163](https://github.com/mmattDonk/AI-TTS-Donations/pull/163) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-4. ❌ Closed PR [#158](https://github.com/mmattDonk/AI-TTS-Donations/pull/158) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-5. 🗣 Commented on [#158](https://github.com/mmattDonk/AI-TTS-Donations/issues/158) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+1. 🎉 Merged PR [#165](https://github.com/mmattDonk/AI-TTS-Donations/pull/165) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+2. 🎉 Merged PR [#5](https://github.com/mmattbtw/random-title-api/pull/5) in [mmattbtw/random-title-api](https://github.com/mmattbtw/random-title-api)
+3. 🎉 Merged PR [#164](https://github.com/mmattDonk/AI-TTS-Donations/pull/164) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+4. 🎉 Merged PR [#162](https://github.com/mmattDonk/AI-TTS-Donations/pull/162) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+5. 🎉 Merged PR [#163](https://github.com/mmattDonk/AI-TTS-Donations/pull/163) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
