@@ -25,11 +25,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/mmattbtw/dankerino/pull/8) in [mmattbtw/dankerino](https://github.com/mmattbtw/dankerino)
-2. 💪 Opened PR [#8](https://github.com/mmattbtw/dankerino/pull/8) in [mmattbtw/dankerino](https://github.com/mmattbtw/dankerino)
-3. 🎉 Merged PR [#169](https://github.com/mmattDonk/AI-TTS-Donations/pull/169) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-4. 🗣 Commented on [#169](https://github.com/mmattDonk/AI-TTS-Donations/issues/169) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-5. 🎉 Merged PR [#172](https://github.com/mmattDonk/AI-TTS-Donations/pull/172) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+1. ❗️ Closed issue [#40](https://github.com/mmattDonk/AI-TTS-Donations/issues/40) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+2. 🎉 Merged PR [#8](https://github.com/mmattbtw/dankerino/pull/8) in [mmattbtw/dankerino](https://github.com/mmattbtw/dankerino)
+3. 💪 Opened PR [#8](https://github.com/mmattbtw/dankerino/pull/8) in [mmattbtw/dankerino](https://github.com/mmattbtw/dankerino)
+4. 🎉 Merged PR [#169](https://github.com/mmattDonk/AI-TTS-Donations/pull/169) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+5. 🗣 Commented on [#169](https://github.com/mmattDonk/AI-TTS-Donations/issues/169) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
