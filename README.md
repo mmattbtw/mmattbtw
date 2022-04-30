@@ -25,11 +25,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#80](https://github.com/spacedriveapp/spacedrive/pull/80) in [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
-2. ❗️ Opened issue [#78](https://github.com/spacedriveapp/spacedrive/issues/78) in [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
-3. ❌ Closed PR [#1](https://github.com/mmattbtw/pajbot/pull/1) in [mmattbtw/pajbot](https://github.com/mmattbtw/pajbot)
-4. 💪 Opened PR [#1](https://github.com/mmattbtw/pajbot/pull/1) in [mmattbtw/pajbot](https://github.com/mmattbtw/pajbot)
-5. 🎉 Merged PR [#195](https://github.com/mmattDonk/AI-TTS-Donations/pull/195) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+1. 🗣 Commented on [#80](https://github.com/spacedriveapp/spacedrive/issues/80) in [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
+2. 💪 Opened PR [#80](https://github.com/spacedriveapp/spacedrive/pull/80) in [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
+3. ❗️ Opened issue [#78](https://github.com/spacedriveapp/spacedrive/issues/78) in [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
+4. ❌ Closed PR [#1](https://github.com/mmattbtw/pajbot/pull/1) in [mmattbtw/pajbot](https://github.com/mmattbtw/pajbot)
+5. 💪 Opened PR [#1](https://github.com/mmattbtw/pajbot/pull/1) in [mmattbtw/pajbot](https://github.com/mmattbtw/pajbot)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
