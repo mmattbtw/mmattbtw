@@ -25,11 +25,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#84](https://github.com/spacedriveapp/spacedrive/pull/84) in [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
-2. 💪 Opened PR [#83](https://github.com/spacedriveapp/spacedrive/pull/83) in [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
-3. 🗣 Commented on [#80](https://github.com/spacedriveapp/spacedrive/issues/80) in [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
-4. 💪 Opened PR [#80](https://github.com/spacedriveapp/spacedrive/pull/80) in [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
-5. ❗️ Opened issue [#78](https://github.com/spacedriveapp/spacedrive/issues/78) in [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
+1. 💪 Opened PR [#91](https://github.com/spacedriveapp/spacedrive/pull/91) in [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
+2. 💪 Opened PR [#84](https://github.com/spacedriveapp/spacedrive/pull/84) in [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
+3. 💪 Opened PR [#83](https://github.com/spacedriveapp/spacedrive/pull/83) in [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
+4. 🗣 Commented on [#80](https://github.com/spacedriveapp/spacedrive/issues/80) in [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
+5. 💪 Opened PR [#80](https://github.com/spacedriveapp/spacedrive/pull/80) in [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
