@@ -25,11 +25,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#193](https://github.com/mmattDonk/AI-TTS-Donations/pull/193) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-2. 🎉 Merged PR [#196](https://github.com/mmattDonk/AI-TTS-Donations/pull/196) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-3. 💪 Opened PR [#196](https://github.com/mmattDonk/AI-TTS-Donations/pull/196) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-4. 💪 Opened PR [#91](https://github.com/spacedriveapp/spacedrive/pull/91) in [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
-5. 💪 Opened PR [#84](https://github.com/spacedriveapp/spacedrive/pull/84) in [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
+1. ❌ Closed PR [#131](https://github.com/mmattDonk/AI-TTS-Donations/pull/131) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+2. 🗣 Commented on [#131](https://github.com/mmattDonk/AI-TTS-Donations/issues/131) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+3. ❗️ Closed issue [#10](https://github.com/mmattDonk/AI-TTS-Donations/issues/10) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+4. 🗣 Commented on [#10](https://github.com/mmattDonk/AI-TTS-Donations/issues/10) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+5. ❗️ Closed issue [#16](https://github.com/mmattDonk/AI-TTS-Donations/issues/16) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
