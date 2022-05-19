@@ -9,8 +9,8 @@
 -----------------------------------------------------------------------
 
 ### About Me
-- 🔭 I’m currently working on ???
-- 🌱 I’m currently learning Python and JavaScript
+- 🔭 I’m currently working on [AI TTS Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+- 🌱 I’m currently learning Python and JavaScript/TypeScript
 - 📫 How to reach me: [mmattbtw@pm.me](mailto:mmattbtw@pm.me) | [mmatt#0001](https://discord.com/users/308000668181069824) on Discord | [@mmattbtw](https://twitter.com/messages/476840933-476840933?recipient_id=476840933&text=Hello!) on Twitter.
 - 😄 Pronouns: he/him
 - 🌐 Website: https://mmatt.net 
