@@ -25,11 +25,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/mmattDonk/TwitchTunes/pull/53) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
-2. 🎉 Merged PR [#60](https://github.com/mmattDonk/TwitchTunes/pull/60) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
-3. 💪 Opened PR [#122](https://github.com/Mm2PL/dankerino/pull/122) in [Mm2PL/dankerino](https://github.com/Mm2PL/dankerino)
-4. 🎉 Merged PR [#8](https://github.com/mmattbtw/remix-mmatt.net/pull/8) in [mmattbtw/remix-mmatt.net](https://github.com/mmattbtw/remix-mmatt.net)
-5. 🗣 Commented on [#8](https://github.com/mmattbtw/remix-mmatt.net/issues/8) in [mmattbtw/remix-mmatt.net](https://github.com/mmattbtw/remix-mmatt.net)
+1. 💪 Opened PR [#10](https://github.com/mmattbtw/remix-mmatt.net/pull/10) in [mmattbtw/remix-mmatt.net](https://github.com/mmattbtw/remix-mmatt.net)
+2. 🎉 Merged PR [#53](https://github.com/mmattDonk/TwitchTunes/pull/53) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
+3. 🎉 Merged PR [#60](https://github.com/mmattDonk/TwitchTunes/pull/60) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
+4. 💪 Opened PR [#122](https://github.com/Mm2PL/dankerino/pull/122) in [Mm2PL/dankerino](https://github.com/Mm2PL/dankerino)
+5. 🎉 Merged PR [#8](https://github.com/mmattbtw/remix-mmatt.net/pull/8) in [mmattbtw/remix-mmatt.net](https://github.com/mmattbtw/remix-mmatt.net)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
