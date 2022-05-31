@@ -25,11 +25,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/SevenTV/Typings/pull/1) in [SevenTV/Typings](https://github.com/SevenTV/Typings)
-2. 💪 Opened PR [#456](https://github.com/SevenTV/Website/pull/456) in [SevenTV/Website](https://github.com/SevenTV/Website)
-3. 💪 Opened PR [#18](https://github.com/SevenTV/Common/pull/18) in [SevenTV/Common](https://github.com/SevenTV/Common)
-4. 💪 Opened PR [#227](https://github.com/SevenTV/ServerGo/pull/227) in [SevenTV/ServerGo](https://github.com/SevenTV/ServerGo)
-5. ❗️ Opened issue [#1](https://github.com/mmattbtw/panel-credits/issues/1) in [mmattbtw/panel-credits](https://github.com/mmattbtw/panel-credits)
+1. 🗣 Commented on [#18](https://github.com/SevenTV/Common/issues/18) in [SevenTV/Common](https://github.com/SevenTV/Common)
+2. 💪 Opened PR [#1](https://github.com/SevenTV/Typings/pull/1) in [SevenTV/Typings](https://github.com/SevenTV/Typings)
+3. 💪 Opened PR [#456](https://github.com/SevenTV/Website/pull/456) in [SevenTV/Website](https://github.com/SevenTV/Website)
+4. 💪 Opened PR [#18](https://github.com/SevenTV/Common/pull/18) in [SevenTV/Common](https://github.com/SevenTV/Common)
+5. 💪 Opened PR [#227](https://github.com/SevenTV/ServerGo/pull/227) in [SevenTV/ServerGo](https://github.com/SevenTV/ServerGo)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
