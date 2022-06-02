@@ -25,11 +25,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3792](https://github.com/Chatterino/chatterino2/pull/3792) in [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2)
-2. ❗️ Opened issue [#1959](https://github.com/pajbot/pajbot/issues/1959) in [pajbot/pajbot](https://github.com/pajbot/pajbot)
-3. 🗣 Commented on [#18](https://github.com/SevenTV/Common/issues/18) in [SevenTV/Common](https://github.com/SevenTV/Common)
-4. 💪 Opened PR [#1](https://github.com/SevenTV/Typings/pull/1) in [SevenTV/Typings](https://github.com/SevenTV/Typings)
-5. 💪 Opened PR [#456](https://github.com/SevenTV/Website/pull/456) in [SevenTV/Website](https://github.com/SevenTV/Website)
+1. ❗️ Opened issue [#138](https://github.com/tommyxchow/frosty/issues/138) in [tommyxchow/frosty](https://github.com/tommyxchow/frosty)
+2. 💪 Opened PR [#3792](https://github.com/Chatterino/chatterino2/pull/3792) in [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2)
+3. ❗️ Opened issue [#1959](https://github.com/pajbot/pajbot/issues/1959) in [pajbot/pajbot](https://github.com/pajbot/pajbot)
+4. 🗣 Commented on [#18](https://github.com/SevenTV/Common/issues/18) in [SevenTV/Common](https://github.com/SevenTV/Common)
+5. 💪 Opened PR [#1](https://github.com/SevenTV/Typings/pull/1) in [SevenTV/Typings](https://github.com/SevenTV/Typings)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
