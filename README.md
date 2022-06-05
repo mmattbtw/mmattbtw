@@ -25,11 +25,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#138](https://github.com/tommyxchow/frosty/issues/138) in [tommyxchow/frosty](https://github.com/tommyxchow/frosty)
-2. 💪 Opened PR [#3792](https://github.com/Chatterino/chatterino2/pull/3792) in [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2)
-3. ❗️ Opened issue [#1959](https://github.com/pajbot/pajbot/issues/1959) in [pajbot/pajbot](https://github.com/pajbot/pajbot)
-4. 🗣 Commented on [#18](https://github.com/SevenTV/Common/issues/18) in [SevenTV/Common](https://github.com/SevenTV/Common)
-5. 💪 Opened PR [#1](https://github.com/SevenTV/Typings/pull/1) in [SevenTV/Typings](https://github.com/SevenTV/Typings)
+1. ❗️ Closed issue [#1](https://github.com/mmattbtw/panel-credits/issues/1) in [mmattbtw/panel-credits](https://github.com/mmattbtw/panel-credits)
+2. 🗣 Commented on [#1](https://github.com/mmattbtw/panel-credits/issues/1) in [mmattbtw/panel-credits](https://github.com/mmattbtw/panel-credits)
+3. ❗️ Opened issue [#138](https://github.com/tommyxchow/frosty/issues/138) in [tommyxchow/frosty](https://github.com/tommyxchow/frosty)
+4. 💪 Opened PR [#3792](https://github.com/Chatterino/chatterino2/pull/3792) in [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2)
+5. ❗️ Opened issue [#1959](https://github.com/pajbot/pajbot/issues/1959) in [pajbot/pajbot](https://github.com/pajbot/pajbot)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
