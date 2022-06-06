@@ -25,11 +25,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/mmattbtw/panel-credits/issues/1) in [mmattbtw/panel-credits](https://github.com/mmattbtw/panel-credits)
-2. 🗣 Commented on [#1](https://github.com/mmattbtw/panel-credits/issues/1) in [mmattbtw/panel-credits](https://github.com/mmattbtw/panel-credits)
-3. ❗️ Opened issue [#138](https://github.com/tommyxchow/frosty/issues/138) in [tommyxchow/frosty](https://github.com/tommyxchow/frosty)
-4. 💪 Opened PR [#3792](https://github.com/Chatterino/chatterino2/pull/3792) in [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2)
-5. ❗️ Opened issue [#1959](https://github.com/pajbot/pajbot/issues/1959) in [pajbot/pajbot](https://github.com/pajbot/pajbot)
+1. 🎉 Merged PR [#10](https://github.com/mmattbtw/PingPong/pull/10) in [mmattbtw/PingPong](https://github.com/mmattbtw/PingPong)
+2. 🎉 Merged PR [#11](https://github.com/mmattbtw/PingPong/pull/11) in [mmattbtw/PingPong](https://github.com/mmattbtw/PingPong)
+3. 🎉 Merged PR [#211](https://github.com/mmattDonk/AI-TTS-Donations/pull/211) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+4. ❗️ Closed issue [#1](https://github.com/mmattbtw/panel-credits/issues/1) in [mmattbtw/panel-credits](https://github.com/mmattbtw/panel-credits)
+5. 🗣 Commented on [#1](https://github.com/mmattbtw/panel-credits/issues/1) in [mmattbtw/panel-credits](https://github.com/mmattbtw/panel-credits)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
