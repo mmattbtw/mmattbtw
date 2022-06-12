@@ -25,11 +25,11 @@
 
 ### Recent Git Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/mmattbtw/remix-mmatt.net/pull/16) in [mmattbtw/remix-mmatt.net](https://github.com/mmattbtw/remix-mmatt.net)
-2. 💪 Opened PR [#16](https://github.com/mmattbtw/remix-mmatt.net/pull/16) in [mmattbtw/remix-mmatt.net](https://github.com/mmattbtw/remix-mmatt.net)
-3. 🎉 Merged PR [#15](https://github.com/mmattbtw/remix-mmatt.net/pull/15) in [mmattbtw/remix-mmatt.net](https://github.com/mmattbtw/remix-mmatt.net)
-4. 💪 Opened PR [#15](https://github.com/mmattbtw/remix-mmatt.net/pull/15) in [mmattbtw/remix-mmatt.net](https://github.com/mmattbtw/remix-mmatt.net)
-5. 🎉 Merged PR [#225](https://github.com/mmattDonk/AI-TTS-Donations/pull/225) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
+1. 🎉 Merged PR [#17](https://github.com/mmattbtw/remix-mmatt.net/pull/17) in [mmattbtw/remix-mmatt.net](https://github.com/mmattbtw/remix-mmatt.net)
+2. 🗣 Commented on [#17](https://github.com/mmattbtw/remix-mmatt.net/issues/17) in [mmattbtw/remix-mmatt.net](https://github.com/mmattbtw/remix-mmatt.net)
+3. 💪 Opened PR [#17](https://github.com/mmattbtw/remix-mmatt.net/pull/17) in [mmattbtw/remix-mmatt.net](https://github.com/mmattbtw/remix-mmatt.net)
+4. 🎉 Merged PR [#16](https://github.com/mmattbtw/remix-mmatt.net/pull/16) in [mmattbtw/remix-mmatt.net](https://github.com/mmattbtw/remix-mmatt.net)
+5. 💪 Opened PR [#16](https://github.com/mmattbtw/remix-mmatt.net/pull/16) in [mmattbtw/remix-mmatt.net](https://github.com/mmattbtw/remix-mmatt.net)
 <!--END_SECTION:activity-->
 
 -----------------------------------------------------------------------
