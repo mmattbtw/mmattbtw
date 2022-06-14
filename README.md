@@ -9,30 +9,16 @@
 -----------------------------------------------------------------------
 
 ### About Me
-- 🔭 I’m currently working on [AI TTS Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-- 🌱 I’m currently learning Python and JavaScript/TypeScript
+- 🔭 I’m currently working on things at [mmattDonk](https://mmattDonk.com) for fun :^)
+- 🌱 I’m currently learning JavaScript/TypeScript
+- 🐍 I know my way around Python
 - 📫 How to reach me: [mmattbtw@pm.me](mailto:mmattbtw@pm.me) | [mmatt#0001](https://discord.com/users/308000668181069824) on Discord | [@mmattbtw](https://twitter.com/messages/476840933-476840933?recipient_id=476840933&text=Hello!) on Twitter.
 - 😄 Pronouns: he/him
 - 🌐 Website: https://mmatt.net 
 - ⚙  Specs: https://mmatt.net/devices [RTX 2070, i9-9900k, 16 GB RAM]
-- 📂 Main Projects:
-  - https://github.com/mmattDonk
 
 -----------------------------------------------------------------------
 
-[![mmatt's github stats](https://github-readme-stats.vercel.app/api?username=mmattbtw&show_icons=true&include_all_commits=true&theme=algolia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mmattbtw&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-### Recent Git Activity:
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#227](https://github.com/mmattDonk/AI-TTS-Donations/pull/227) in [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations)
-2. 🎉 Merged PR [#61](https://github.com/mmattDonk/TwitchTunes/pull/61) in [mmattDonk/TwitchTunes](https://github.com/mmattDonk/TwitchTunes)
-3. 🎉 Merged PR [#6](https://github.com/mmattbtw/random-title-api/pull/6) in [mmattbtw/random-title-api](https://github.com/mmattbtw/random-title-api)
-4. 🎉 Merged PR [#21](https://github.com/mmattDonk/crossban-bot/pull/21) in [mmattDonk/crossban-bot](https://github.com/mmattDonk/crossban-bot)
-5. 🎉 Merged PR [#13](https://github.com/mmattDonk/Twitch-Discord-Relay-Bot/pull/13) in [mmattDonk/Twitch-Discord-Relay-Bot](https://github.com/mmattDonk/Twitch-Discord-Relay-Bot)
-<!--END_SECTION:activity-->
-
------------------------------------------------------------------------
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/308000668181069824
                             )](https://discord.com/users/308000668181069824)
 
