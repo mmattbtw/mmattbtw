@@ -16,7 +16,7 @@
 - 😄 Pronouns: he/him
 - 🌐 Website: https://mmatt.net 
   - 📔 Blog: [/blog](https://mmatt.net/blog)
-- ⚙  Specs: https://mmatt.net/devices [RTX 2070, i9-9900k, 16 GB RAM]
+- ⚙  Specs: https://mmatt.net/devices [RTX 2070, i9-9900k, 32 GB RAM]
 
 -----------------------------------------------------------------------
 
