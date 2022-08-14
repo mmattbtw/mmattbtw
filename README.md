@@ -1,4 +1,4 @@
-## [![Hi, I'm Matt! I'm currently learning Python and JavaScript. Find more at mmatt.net](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi%2C+I'm+Matt+%F0%9F%91%8B;I'm+currently+learning+Python+%F0%9F%90%8D;and+JavaScript+%E2%98%95%F0%9F%93%9C;mmatt.net)](https://mmatt.net)
+## 👋 i'm matt
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mmattbtw?color=%231A90D9&label=Twitter&logo=Twitter&logoColor=White&style=flat-square)](https://twitter.com/mmattbtw)
 [![Discord](https://img.shields.io/discord/702352937980133386.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=flat-square)](https://discord.gg/hgQTTU7)
