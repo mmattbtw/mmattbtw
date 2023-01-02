@@ -12,16 +12,12 @@
 - 🔭 I’m currently working on things at [mmattDonk](https://mmattDonk.com) for fun :^)
 - 🌱 I’m currently learning JavaScript/TypeScript
 - 🐍 I know my way around Python
-- 📫 How to reach me: [mmattbtw@pm.me](mailto:mmattbtw@pm.me) | [mmatt](https://discord.com/users/308000668181069824) on Discord | [@mmattbtw](https://twitter.com/messages/476840933-476840933?recipient_id=476840933&text=Hello!) on Twitter.
+- 📫 How to reach me: [mmattbtw@pm.me](mailto:mmattbtw@pm.me) | [@mmattbtw](https://twitter.com/messages/476840933-476840933?recipient_id=476840933&text=Hello!) on Twitter.
+  - if you see that discord dm is a valid form of contact, please don't! just a personal thing that's all. :-)
 - 😄 Pronouns: he/him
 - 🌐 Website: https://mmatt.net 
   - 📔 Blog: [/blog](https://mmatt.net/blog)
 - ⚙  Specs: https://mmatt.net/devices [RTX 2070, i9-9900k, 32 GB RAM]
-
------------------------------------------------------------------------
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/308000668181069824
-                            )](https://discord.com/users/308000668181069824)
 
 
 ###### *contribute to this readme.md [here](https://github.com/mmattbtw/mmattbtw)*
