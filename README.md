@@ -1,6 +1,6 @@
 ## 👋 yo, i'm matt
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mmattbtw?color=%231A90D9&label=twitter&logo=Twitter&logoColor=White&style=flat-square)](https://twitter.com/mmattbtw)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mmatt?color=%231A90D9&label=twitter&logo=Twitter&logoColor=White&style=flat-square)](https://twitter.com/mmatt)
 [![Discord](https://img.shields.io/discord/883929594179256350.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=flat-square)](https://discord.gg/VUAjRrkZVJ)
 [![Twitch Status](https://img.shields.io/twitch/status/mmattbtw?style=flat-square)](https://twitch.tv/mmattbtw)
 ![GitHub Visitors](https://visitor-badge.glitch.me/badge?page_id=mmattbtw.mmattbtw?style=flat-square&style=flat-square)
@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on things at [mmattDonk](https://mmattDonk.com) for fun :^)
 - 🌱 I’m currently learning JavaScript/TypeScript
 - 🐍 I know my way around Python
-- 📫 How to reach me: [mmattbtw@pm.me](mailto:mmattbtw@pm.me) | [@mmattbtw](https://twitter.com/messages/476840933-476840933?recipient_id=476840933&text=Hello!) on Twitter.
+- 📫 How to reach me: [mmattbtw@pm.me](mailto:mmattbtw@pm.me) | [@mmatt](https://twitter.com/messages/476840933-476840933?recipient_id=476840933&text=Hello!) on Twitter.
   - if you see that discord dm is a valid form of contact, please don't! just a personal thing that's all. :-)
 - 😄 Pronouns: he/him
 - 🌐 Website: https://mmatt.net 
