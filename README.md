@@ -5,7 +5,7 @@
 [![Twitch Status](https://img.shields.io/twitch/status/mmattbtw?style=flat-square)](https://twitch.tv/mmattbtw)
 ![GitHub Visitors](https://visitor-badge.glitch.me/badge?page_id=mmattbtw.mmattbtw?style=flat-square&style=flat-square)
 [![omg.lol](https://omg.8bitsqu.id/?user=mm&style=flat-square)](https://mm.omg.lol)
-![(he/they)](https://img.shields.io/badge/pronouns-he%2Fthey-blue?style=flat-square)
+[![(he/they)](https://img.shields.io/badge/pronouns-he%2Fthey-blue?style=flat-square)](https://en.pronouns.page/@mmatt)
 
 
 ###### You can find me everywhere on https://mmatt.link/socials
