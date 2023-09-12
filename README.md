@@ -9,10 +9,10 @@
 
 
 
-###### You can find me everywhere on https://mmatt.link/socials
+###### you can find me everywhere on [matt.omg.lol](https://matt.omg.lol)
 -----------------------------------------------------------------------
 
-- 🔭 i'm [building twitter for music nerds](https://songish.app) and [open source streaming stuff](https://mmattdonk.com)
+- 🔭 i'm [building twitter for music nerds](https://songish.app)
 - 💗 loving t3 stack and new web tech.
 - 📫 [matt@mmatt.net](mailto:matt@mmatt.net) | [@mmatt](https://twitter.com/messages/476840933-476840933?recipient_id=476840933&text=Hello!) on Twitter.
 - 🌐 [mmatt.net](https://mmatt.net) 
