@@ -7,7 +7,7 @@
 [![(he/they)](https://img.shields.io/badge/pronouns-he%2Fthey-blue?style=flat-square)](https://en.pronouns.page/@mmatt)
 
 
-###### you can find me everywhere on [matt.omg.lol](https://matt.omg.lol)
+###### [you can find me everywhere on matt.omg.lol](https://matt.omg.lol)
 -----------------------------------------------------------------------
 
 - 🔭 i'm [building twitter for music nerds](https://songish.app)
