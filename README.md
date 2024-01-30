@@ -11,6 +11,6 @@
 -----------------------------------------------------------------------
 
 - 🔭 i'm building [the best place for music](https://songish.app)
-- 💗 loving t3 stack and new web tech.
+- 💗 loving [t3 stack](https://create.t3.gg/) and new web tech.
 - 📫 [matt@mmatt.net](mailto:matt@mmatt.net) | [@mmatt](https://twitter.com/messages/476840933-476840933?recipient_id=476840933&text=Hello!) on Twitter.
 - 🌐 [mmatt.net](https://mmatt.net) 
