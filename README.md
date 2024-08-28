@@ -4,7 +4,6 @@
 [![Discord](https://img.shields.io/discord/1086850996208144484.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=flat-square)](https://songish.app/discord)
 [![Twitch Status](https://img.shields.io/twitch/status/mmattbtw?style=flat-square)](https://twitch.tv/mmattbtw)
 [![omg.lol](https://omg.8bitsqu.id/?user=matt&style=flat-square)](https://matt.omg.lol)
-[![(he/him)](https://img.shields.io/badge/pronouns-he%2Fhim-blue?style=flat-square)](https://en.pronouns.page/@mmatt)
 
 
 ###### [you can find me everywhere on matt.omg.lol](https://matt.omg.lol)
