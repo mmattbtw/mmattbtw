@@ -1,4 +1,4 @@
-## 👋 yo, i'm matt
+## [@mmatt](https://twitter.com/mmatt)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mmatt?color=%231A90D9&label=twitter&logo=Twitter&logoColor=White&style=flat-square)](https://twitter.com/mmatt)
 [![Discord](https://img.shields.io/discord/1086850996208144484.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=flat-square)](https://songish.app/discord)
