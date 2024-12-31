@@ -5,7 +5,7 @@
 
 -----------------------------------------------------------------------
 
-- 🔭 i'm building [the best place for music](https://songish.app)
+- 🔭 i'm building [the best place for music](https://songish.app) & [the best music tracker](https://teal.fm)
 - 🏫 comp. sci at [mtsu](https://mtsu.edu)
 - 📫 [matt@mmatt.net](mailto:matt@mmatt.net)
 - 🌐 [mmatt.net](https://mmatt.net) 
