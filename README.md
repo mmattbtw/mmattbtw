@@ -1,4 +1,4 @@
-## [@mmatt.net](https://bsky.app/profile/did:plc:tas6hj2xjrqben5653v5kohk)
+## [@mmatt.net](https://mmatt.net)
 
 [![Discord](https://img.shields.io/discord/1299158421655912498.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=flat-square)](https://discord.gg/DMSZ3xFUpk)
 [![omg.lol](https://omg.8bitsqu.id/?user=matt&style=flat-square)](https://matt.omg.lol)
